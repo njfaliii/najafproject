@@ -1,0 +1,47 @@
+.main-1{
+    height: 300px;
+    width: 100%;
+    border: 2px solid red;
+}
+.njf-1{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    float: left;
+}
+.njf-2{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    float: left;
+}
+.njf-3{   
+   height: 100px;
+    width: 100px;
+    background-color: rgb(66, 19, 19);
+    float: left;
+}
+.njf-4{   
+    height: 100px;
+     width: 100px;
+     background-color: red;
+     float: left;
+}
+.njf-5{   
+    height: 100px;
+     width: 100px;
+     background-color: rgb(216, 216, 33);
+     float: left;
+}
+.main-2{
+    height: 300px;
+    width: 100%;
+    border: 2px solid rgb(56, 186, 33);
+    float: left;
+}
+.njf-6{
+    height: 100px;
+    width: 100%;
+    border: 2px solid rgb(60, 100, 54);
+    float: left;
+}

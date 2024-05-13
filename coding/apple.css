@@ -1,0 +1,67 @@
+* {
+    margin: 0 0;
+}
+
+.head {
+    background-color: rgb(46, 45, 45);
+    height: 40px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+
+.logo img{
+    width: 25px;
+    display: flex;
+}
+
+.details{
+    display: flex;
+    gap: 20px;
+}
+
+.details a{
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+}
+
+.models {
+    background-color: black;
+    height: 150px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 10px;
+}
+
+.models a{
+    display:flex ;
+    color: white;
+    align-items: center;
+    flex-direction: column;
+}
+
+.models a img{
+    width: 60px;
+}
+
+.offers {
+background-color: rgb(46, 45, 45) ;
+height: 30px;
+justify-content: center;
+color: white;
+display: flex;
+align-items: center;
+}
+
+.offers span{
+    color: rgb(17, 96, 222);
+}
+
+.watch img{
+    width: 100%;
+}
